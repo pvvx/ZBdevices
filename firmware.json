@@ -1,4 +1,5 @@
 {"version": "0.0.0.1",
 "bin":[
-"https://raw.githubusercontent.com/pvvx/ZBdevices/master/bin/1141-020a-00013001-Z03MMC.zigbee", 
+"https://raw.githubusercontent.com/pvvx/ZBdevices/master/bin/1141-020a-00013001-Z03MMC.zigbee",
+"?" 
 ]}
