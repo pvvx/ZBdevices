@@ -3,13 +3,17 @@ ZigBee devices with BLE-OTA function on Telink chipset.
 
 ![image](https://github.com/user-attachments/assets/9fea94d4-8313-493a-a4e3-ae15f18a1c65)
 
-In development...
+Beta versions... (Not all tested)
 
-Прошивка имеет функцию включения BLE для обновления по BLE OTA, а так же некоторые дополнительные BLE сервисы.
+Прошивки имеют функции включения BLE для обновления по BLE OTA, а так же некоторые дополнительные BLE сервисы.
 
 ### Основное предназначение
 
 Для начальной проверочной пробы работы с хабами Zigbee типа “Яндекс станция …” и подобными. Позволяет в случае неуспеха вернуться на BLE версию и прошить другую прошивку через BLE OTA. А так же для возможности настройки устройства по BLE перед спариванием с хабом.
+
+### Поддерживаемые устройства
+
+Смотри [таблицу](https://github.com/pvvx/pvvx.github.io?tab=readme-ov-file#id-numbers-of-alternative-firmware)
 
 ### Включение BLE
 
