@@ -5,7 +5,7 @@ ZigBee devices with BLE-OTA function on Telink chipset.
 
 Beta versions... 
 (At the moment, the following devices have been tested with the ZBdevice firmware:<br>
-Xiaomi LYWSD03MMC B 1.4, CGG1, CGG1N. The other options have not been tested yet...)
+Xiaomi LYWSD03MMC B 1.4, CGG1, CGG1N, LKTMZL02. The other options have not been tested yet...)
 
 Прошивки имеют функции включения BLE для обновления по BLE OTA, а так же некоторые дополнительные BLE сервисы.
 
