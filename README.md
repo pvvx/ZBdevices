@@ -1,3 +1,9 @@
+
+
+! Merged and moved to https://github.com/pvvx/ZigbeeTLc/
+
+[ZBdevices](https://github.com/pvvx/ZigbeeTLc/blob/master/ZBdevices.md)
+
 # ZBdevices
 ZigBee devices with BLE-OTA function on Telink chipset.
 
